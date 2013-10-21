@@ -13,9 +13,6 @@
             },
             "properties": {
                 "name": "Ahiritola",
-                "styleUrl": "#style227",
-                "styleHash": "-76417209",
-                "description": "Durga puja of Ahiritola"
             }
         },
         {
@@ -30,9 +27,6 @@
             },
             "properties": {
                 "name": "College Square",
-                "styleUrl": "#style172",
-                "styleHash": "-4d8b703e",
-                "description": "Durga puja of College Square"
             }
         },
         {
@@ -47,9 +41,6 @@
             },
             "properties": {
                 "name": "Anupama Housing Complex",
-                "styleUrl": "#style82",
-                "styleHash": "-798da856",
-                "description": "Durga puja of Anupama Housing Complex"
             }
         },
         {
@@ -64,9 +55,6 @@
             },
             "properties": {
                 "name": "Dum Dum Park Tarun Sangha",
-                "styleUrl": "#style124",
-                "styleHash": "-75d836c5",
-                "description": "Durga puja of Dum Dum Park Tarun Sangha"
             }
         },
         {
@@ -81,9 +69,6 @@
             },
             "properties": {
                 "name": "Dum Dum Park Bharat Chakra",
-                "styleUrl": "#style231",
-                "styleHash": "32a144fe",
-                "description": "Durga puja of Dum Dum Park Bharat Chakra"
             }
         },
         {
@@ -98,9 +83,6 @@
             },
             "properties": {
                 "name": "Dum Dum Tarun Dal",
-                "styleUrl": "#style167",
-                "styleHash": "-76cfb64",
-                "description": "Durga puja of Dum Dum Tarun Dal"
             }
         },
         {
@@ -115,9 +97,6 @@
             },
             "properties": {
                 "name": "Dum Dum Park Yubak Brinda",
-                "styleUrl": "#style1",
-                "styleHash": "7f287c3d",
-                "description": "Durga puja of Dum Dum Park Yubak Brinda"
             }
         },
         {
@@ -132,9 +111,6 @@
             },
             "properties": {
                 "name": "Baghbazar Sarbojonin Durgotsab & Exhibition",
-                "styleUrl": "#style66",
-                "styleHash": "-5349b75c",
-                "description": "Durga puja of Baghbazar Sarbojonin Durgotsab &amp; Exhibition"
             }
         },
         {
@@ -149,9 +125,6 @@
             },
             "properties": {
                 "name": "Joramandir",
-                "styleUrl": "#style32",
-                "styleHash": "3c27e8e5",
-                "description": "Durga puja of Joramandir"
             }
         },
         {
@@ -166,9 +139,6 @@
             },
             "properties": {
                 "name": "Telengabagan",
-                "styleUrl": "#style173",
-                "styleHash": "-3c8c9c1f",
-                "description": "Durga puja of Telengabagan"
             }
         },
         {
@@ -183,9 +153,6 @@
             },
             "properties": {
                 "name": "Karbagan Sarbojanin",
-                "styleUrl": "#style211",
-                "styleHash": "14e9e57c",
-                "description": "Durga puja of Karbagan Sarbojanin"
             }
         },
         {
@@ -200,9 +167,6 @@
             },
             "properties": {
                 "name": "Gouriberia",
-                "styleUrl": "#style33",
-                "styleHash": "4d26bd04",
-                "description": "Durga puja of Gouriberia"
             }
         },
         {
@@ -217,9 +181,6 @@
             },
             "properties": {
                 "name": "Kumartuli Park",
-                "styleUrl": "#style51",
-                "styleHash": "48e07448",
-                "description": "Durga puja of Kumartuli Park"
             }
         },
         {
@@ -234,9 +195,6 @@
             },
             "properties": {
                 "name": "Laketown Adhibasi Brinda",
-                "styleUrl": "#style225",
-                "styleHash": "67c0e5b9",
-                "description": "Durga puja of Laketown Adhibasi Brinda"
             }
         },
         {
@@ -251,9 +209,6 @@
             },
             "properties": {
                 "name": "Laketown Netaji Sporting Club",
-                "styleUrl": "#style113",
-                "styleHash": "6a4d455b",
-                "description": "Durga puja of Laketown Netaji Sporting Club"
             }
         },
         {
@@ -268,9 +223,6 @@
             },
             "properties": {
                 "name": "Md. Ali Park",
-                "styleUrl": "#style157",
-                "styleHash": "-1648ab25",
-                "description": "Durga puja of Md. Ali Park"
             }
         },
         {
@@ -285,9 +237,6 @@
             },
             "properties": {
                 "name": "Mitali - Kankurgachi",
-                "styleUrl": "#style183",
-                "styleHash": "-2db0ec5e",
-                "description": "Durga puja of Mitali - Kankurgachi"
             }
         },
         {
@@ -302,9 +251,6 @@
             },
             "properties": {
                 "name": "Salt Lake CJ Block",
-                "styleUrl": "#style76",
-                "styleHash": "-446e079b",
-                "description": "Durga puja of Salt Lake CJ Block"
             }
         },
         {
@@ -319,9 +265,6 @@
             },
             "properties": {
                 "name": "Salt Lake BJ Block",
-                "styleUrl": "#style142",
-                "styleHash": "-7a1e7f81",
-                "description": "Durga puja of Salt Lake BJ Block"
             }
         },
         {
@@ -336,9 +279,6 @@
             },
             "properties": {
                 "name": "Salt Lake FD Block",
-                "styleUrl": "#style44",
-                "styleHash": "6d0140e4",
-                "description": "Durga puja of Salt Lake FD Block"
             }
         },
         {
@@ -353,9 +293,6 @@
             },
             "properties": {
                 "name": "Salt Lake GD Block",
-                "styleUrl": "#style48",
-                "styleHash": "-4f036ea0",
-                "description": "Durga puja of Salt Lake GD Block"
             }
         },
         {
@@ -370,9 +307,6 @@
             },
             "properties": {
                 "name": "Salt Lake HA Block",
-                "styleUrl": "#style217",
-                "styleHash": "7ae2de36",
-                "description": "Durga puja of Salt Lake HA Block"
             }
         },
         {
@@ -387,9 +321,6 @@
             },
             "properties": {
                 "name": "Salt Lake IA Block",
-                "styleUrl": "#style153",
-                "styleHash": "-5a43fba1",
-                "description": "Durga puja of Salt Lake IA Block"
             }
         },
         {
@@ -404,9 +335,6 @@
             },
             "properties": {
                 "name": "Salt Lake Laboni",
-                "styleUrl": "#style129",
-                "styleHash": "-20de122a",
-                "description": "Durga puja of Salt Lake Laboni"
             }
         },
         {
@@ -421,9 +349,6 @@
             },
             "properties": {
                 "name": "Santosh Mitra Square",
-                "styleUrl": "#style140",
-                "styleHash": "63e3d841",
-                "description": "Durga puja of Santosh Mitra Square"
             }
         },
         {
@@ -438,9 +363,6 @@
             },
             "properties": {
                 "name": "Sealdah Railway Athletic Club",
-                "styleUrl": "#style40",
-                "styleHash": "2905f068",
-                "description": "Durga puja of Sealdah Railway Athletic Club"
             }
         },
         {
@@ -455,9 +377,6 @@
             },
             "properties": {
                 "name": "Sovabazar Beniatola",
-                "styleUrl": "#style232",
-                "styleHash": "43a0191d",
-                "description": "Durga puja of Sovabazar Beniatola"
             }
         },
         {
@@ -472,9 +391,6 @@
             },
             "properties": {
                 "name": "Sreebhumi Sporting Club",
-                "styleUrl": "#style154",
-                "styleHash": "-49452782",
-                "description": "Durga puja of Sreebhumi Sporting Club"
             }
         },
         {
@@ -489,9 +405,6 @@
             },
             "properties": {
                 "name": "Tala Barowari",
-                "styleUrl": "#style15",
-                "styleHash": "516d05c0",
-                "description": "Durga puja of Tala Barowari"
             }
         },
         {
@@ -506,9 +419,6 @@
             },
             "properties": {
                 "name": "Manicktala Chaltabagan Loha Patty",
-                "styleUrl": "#style5",
-                "styleHash": "-69ecdf1f",
-                "description": "Durga puja of Manicktala Chaltabagan Loha Patty"
             }
         },
         {
@@ -523,9 +433,6 @@
             },
             "properties": {
                 "name": "Pathuriaghata Pancher Pally",
-                "styleUrl": "#style7",
-                "styleHash": "-4c357f9d",
-                "description": "Durga puja of Pathuriaghata Pancher Pally"
             }
         },
         {
@@ -540,9 +447,6 @@
             },
             "properties": {
                 "name": "Tala Palli",
-                "styleUrl": "#style68",
-                "styleHash": "-3787e28",
-                "description": "Durga puja of Tala Palli"
             }
         },
         {
@@ -557,9 +461,6 @@
             },
             "properties": {
                 "name": "Ghas Bagan",
-                "styleUrl": "#style135",
-                "styleHash": "-55fdb2e5",
-                "description": "Durga puja of Ghas Bagan"
             }
         },
         {
@@ -574,9 +475,6 @@
             },
             "properties": {
                 "name": "Hatibagan Nabin Pally",
-                "styleUrl": "#style218",
-                "styleHash": "-741e4dab",
-                "description": "Durga puja of Hatibagan Nabin Pally"
             }
         },
         {
@@ -591,9 +489,6 @@
             },
             "properties": {
                 "name": "Nalin Sarkar Street Sarbojanin Durgotsab",
-                "styleUrl": "#style210",
-                "styleHash": "3eb115d",
-                "description": "Durga puja of Nalin Sarkar Street Sarbojanin Durgotsab"
             }
         },
         {
@@ -608,9 +503,6 @@
             },
             "properties": {
                 "name": "Hatibagan Sarbojonin",
-                "styleUrl": "#style151",
-                "styleHash": "-7c41a3df",
-                "description": "Durga puja of Hatibagan Sarbojonin"
             }
         },
         {
@@ -625,9 +517,6 @@
             },
             "properties": {
                 "name": "Olabibitala Sarbojanin",
-                "styleUrl": "#style107",
-                "styleHash": "-609319ea",
-                "description": "Durga puja of Olabibitala Sarbojanin"
             }
         },
         {
@@ -642,9 +531,6 @@
             },
             "properties": {
                 "name": "Yuva Brinda",
-                "styleUrl": "#style226",
-                "styleHash": "78bfb9d8",
-                "description": "Durga puja of Yuva Brinda"
             }
         },
         {
@@ -659,9 +545,6 @@
             },
             "properties": {
                 "name": "Kashi Bose Lane",
-                "styleUrl": "#style90",
-                "styleHash": "73505f2d",
-                "description": "Durga puja of Kashi Bose Lane"
             }
         },
         {
@@ -676,9 +559,6 @@
             },
             "properties": {
                 "name": "Purbachal Sarbojanin",
-                "styleUrl": "#style63",
-                "styleHash": "79b9cc47",
-                "description": "Durga puja of Purbachal Sarbojanin"
             }
         },
         {
@@ -693,9 +573,6 @@
             },
             "properties": {
                 "name": "Sovabazar Rajbari",
-                "styleUrl": "#style141",
-                "styleHash": "74e2ac60",
-                "description": "Durga puja of Sovabazar Rajbari"
             }
         },
         {
@@ -710,9 +587,6 @@
             },
             "properties": {
                 "name": "37 Pally",
-                "styleUrl": "#style62",
-                "styleHash": "68baf828",
-                "description": "Durga puja of 37 Pally"
             }
         },
         {
@@ -727,9 +601,6 @@
             },
             "properties": {
                 "name": "Salt Lake AJ Block",
-                "styleUrl": "#style177",
-                "styleHash": "76eb45d",
-                "description": "Durga puja of Salt Lake AJ Block"
             }
         },
         {
@@ -744,9 +615,6 @@
             },
             "properties": {
                 "name": "Laketown Nutan Palli Pradeep Sangha",
-                "styleUrl": "#style79",
-                "styleHash": "-39906e02",
-                "description": "Durga puja of Laketown Nutan Palli Pradeep Sangha"
             }
         },
         {
@@ -761,9 +629,6 @@
             },
             "properties": {
                 "name": "Rammohan Sammilani",
-                "styleUrl": "#style169",
-                "styleHash": "83c8816",
-                "description": "Durga puja of Rammohan Sammilani"
             }
         },
         {
@@ -778,9 +643,6 @@
             },
             "properties": {
                 "name": "Durga Puja of 4 Ghosh Lane",
-                "styleUrl": "#style123",
-                "styleHash": "5d03dad8",
-                "description": "Durga puja of Durga Puja of 4 Ghosh Lane"
             }
         },
         {
@@ -795,9 +657,6 @@
             },
             "properties": {
                 "name": "Dakshineswar Dolpere Adi Sabojonin Durgapuja",
-                "styleUrl": "#style8",
-                "styleHash": "c9aff52",
-                "description": "Durga puja of Dakshineswar Dolpere Adi Sabojonin Durgapuja"
             }
         },
         {
@@ -812,9 +671,6 @@
             },
             "properties": {
                 "name": "Milangarh Sarbojanin",
-                "styleUrl": "#style56",
-                "styleHash": "70d33b5f",
-                "description": "Durga puja of Milangarh Sarbojanin"
             }
         },
         {
@@ -829,9 +685,6 @@
             },
             "properties": {
                 "name": "Motijheel Sarbojanin",
-                "styleUrl": "#style155",
-                "styleHash": "504acf99",
-                "description": "Durga puja of Motijheel Sarbojanin"
             }
         },
         {
@@ -846,9 +699,6 @@
             },
             "properties": {
                 "name": "Beliaghata Nabamilan",
-                "styleUrl": "#style91",
-                "styleHash": "-50f6eaf8",
-                "description": "Durga puja of Beliaghata Nabamilan"
             }
         },
         {
@@ -863,9 +713,6 @@
             },
             "properties": {
                 "name": "Sandhani",
-                "styleUrl": "#style221",
-                "styleHash": "-261cffc7",
-                "description": "Durga puja of Sandhani"
             }
         },
         {
@@ -880,9 +727,6 @@
             },
             "properties": {
                 "name": "Simla Byam Samity",
-                "styleUrl": "#style105",
-                "styleHash": "21ae9e94",
-                "description": "Durga puja of Simla Byam Samity"
             }
         },
         {
@@ -897,9 +741,6 @@
             },
             "properties": {
                 "name": "United Club",
-                "styleUrl": "#style112",
-                "styleHash": "4e6ffef8",
-                "description": "Durga puja of United Club"
             }
         },
         {
@@ -914,9 +755,6 @@
             },
             "properties": {
                 "name": "Kumartuli Preparation",
-                "styleUrl": "#style150",
-                "styleHash": "3603b53e",
-                "description": "Durga puja of Kumartuli Preparation"
             }
         },
         {
@@ -931,9 +769,6 @@
             },
             "properties": {
                 "name": "Swapnar Bagan",
-                "styleUrl": "#style6",
-                "styleHash": "-644e3e6c",
-                "description": "Durga puja of Swapnar Bagan"
             }
         },
         {
@@ -948,9 +783,6 @@
             },
             "properties": {
                 "name": "Lalabagan Yubak Brinda - Nabankur Sangha",
-                "styleUrl": "#style121",
-                "styleHash": "-13e562e6",
-                "description": "Durga puja of Lalabagan Yubak Brinda - Nabankur Sangha"
             }
         },
         {
@@ -965,9 +797,6 @@
             },
             "properties": {
                 "name": "Sammilita Lalabagan Sarbojanin",
-                "styleUrl": "#style161",
-                "styleHash": "4497911e",
-                "description": "Durga puja of Sammilita Lalabagan Sarbojanin"
             }
         },
         {
@@ -982,9 +811,6 @@
             },
             "properties": {
                 "name": "Salt Lake AE Block - Part 1",
-                "styleUrl": "#style144",
-                "styleHash": "41b6f3b9",
-                "description": "Durga puja of Salt Lake AE Block - Part 1"
             }
         },
         {
@@ -999,9 +825,6 @@
             },
             "properties": {
                 "name": "Kolkata",
-                "styleUrl": "#style117",
-                "styleHash": "68b71953",
-                "description": "Durga puja of Kolkata"
             }
         },
         {
@@ -1016,9 +839,6 @@
             },
             "properties": {
                 "name": "CIT Sarbojanin",
-                "styleUrl": "#style20",
-                "styleHash": "-644634de",
-                "description": "Durga puja of CIT Sarbojanin"
             }
         },
         {
@@ -1033,9 +853,6 @@
             },
             "properties": {
                 "name": "Baghbazar Jagodharti",
-                "styleUrl": "#style94",
-                "styleHash": "5866f1a5",
-                "description": "Durga puja of Baghbazar Jagodharti"
             }
         },
         {
@@ -1050,9 +867,6 @@
             },
             "properties": {
                 "name": "Beliaghata 33 No Palli",
-                "styleUrl": "#style214",
-                "styleHash": "-52de602b",
-                "description": "Durga puja of Beliaghata 33 No Palli"
             }
         },
         {
@@ -1067,9 +881,6 @@
             },
             "properties": {
                 "name": "Belgachia Sadharan Durgatsab",
-                "styleUrl": "#style98",
-                "styleHash": "3a396d21",
-                "description": "Durga puja of Belgachia Sadharan Durgatsab"
             }
         },
         {
@@ -1084,9 +895,6 @@
             },
             "properties": {
                 "name": "Kumartuli Sarbojanin",
-                "styleUrl": "#style80",
-                "styleHash": "-5f8ac6d8",
-                "description": "Durga puja of Kumartuli Sarbojanin"
             }
         },
         {
@@ -1101,9 +909,6 @@
             },
             "properties": {
                 "name": "Satadal",
-                "styleUrl": "#style78",
-                "styleHash": "-72050ce1",
-                "description": "Durga puja of Satadal"
             }
         },
         {
@@ -1118,9 +923,6 @@
             },
             "properties": {
                 "name": "Salt Lake AE Block - Part 2",
-                "styleUrl": "#style60",
-                "styleHash": "-bc940da",
-                "description": "Durga puja of Salt Lake AE Block - Part 2"
             }
         },
         {
@@ -1135,9 +937,6 @@
             },
             "properties": {
                 "name": "Salt Lake BE Block - Part 2",
-                "styleUrl": "#style165",
-                "styleHash": "266a0c9a",
-                "description": "Durga puja of Salt Lake BE Block - Part 2"
             }
         },
         {
@@ -1152,9 +951,6 @@
             },
             "properties": {
                 "name": "Salt Lake CK-CL Block",
-                "styleUrl": "#style64",
-                "styleHash": "-29f6c55e",
-                "description": "Durga puja of Salt Lake CK-CL Block"
             }
         },
         {
@@ -1169,9 +965,6 @@
             },
             "properties": {
                 "name": "Salt Lake DL block",
-                "styleUrl": "#style97",
-                "styleHash": "1c4ce42",
-                "description": "Durga puja of Salt Lake DL block"
             }
         },
         {
@@ -1186,9 +979,6 @@
             },
             "properties": {
                 "name": "Karunamayee G Block",
-                "styleUrl": "#style77",
-                "styleHash": "55865440",
-                "description": "Durga puja of Karunamayee G Block"
             }
         },
         {
@@ -1203,9 +993,6 @@
             },
             "properties": {
                 "name": "Kamardanga Sitalatala - Howrah",
-                "styleUrl": "#style148",
-                "styleHash": "23896f35",
-                "description": "Durga puja of Kamardanga Sitalatala - Howrah"
             }
         },
         {
@@ -1220,9 +1007,6 @@
             },
             "properties": {
                 "name": "Arupara Milan Sangha - Howrah",
-                "styleUrl": "#style190",
-                "styleHash": "-717f56be",
-                "description": "Durga puja of Arupara Milan Sangha - Howrah"
             }
         },
         {
@@ -1237,9 +1021,6 @@
             },
             "properties": {
                 "name": "Naba Baghbazar",
-                "styleUrl": "#style146",
-                "styleHash": "-4d5fce89",
-                "description": "Durga puja of Naba Baghbazar"
             }
         },
         {
@@ -1254,9 +1035,6 @@
             },
             "properties": {
                 "name": "Bangur Avenue Protirodh Bahini",
-                "styleUrl": "#style12",
-                "styleHash": "3683cbdf",
-                "description": "Durga puja of Bangur Avenue Protirodh Bahini"
             }
         },
         {
@@ -1271,9 +1049,6 @@
             },
             "properties": {
                 "name": "Goabagan Sarbojanin",
-                "styleUrl": "#style130",
-                "styleHash": "-763ac4c4",
-                "description": "Durga puja of Goabagan Sarbojanin"
             }
         },
         {
@@ -1288,9 +1063,6 @@
             },
             "properties": {
                 "name": "Hari Ghosh Street Sarbojonin",
-                "styleUrl": "#style219",
-                "styleHash": "-389745d0",
-                "description": "Durga puja of Hari Ghosh Street Sarbojonin"
             }
         },
         {
@@ -1305,9 +1077,6 @@
             },
             "properties": {
                 "name": "Jagat Mukherjee Park",
-                "styleUrl": "#style170",
-                "styleHash": "-1dbdd0c0",
-                "description": "Durga puja of Jagat Mukherjee Park"
             }
         },
         {
@@ -1322,9 +1091,6 @@
             },
             "properties": {
                 "name": "Baghbazar Pally",
-                "styleUrl": "#style179",
-                "styleHash": "-21a43ae9",
-                "description": "Durga puja of Baghbazar Pally"
             }
         },
         {
@@ -1339,9 +1105,6 @@
             },
             "properties": {
                 "name": "Beadon Street Sarbojanin",
-                "styleUrl": "#style3",
-                "styleHash": "-dac1b09",
-                "description": "Durga puja of Beadon Street Sarbojanin"
             }
         },
         {
@@ -1356,9 +1119,6 @@
             },
             "properties": {
                 "name": "Sammilita Malapara",
-                "styleUrl": "#style31",
-                "styleHash": "-55b258fe",
-                "description": "Durga puja of Sammilita Malapara"
             }
         },
         {
@@ -1373,9 +1133,6 @@
             },
             "properties": {
                 "name": "Darpanarayan Tagore Street Pally Samity",
-                "styleUrl": "#style49",
-                "styleHash": "4411dafb",
-                "description": "Durga puja of Darpanarayan Tagore Street Pally Samity"
             }
         },
         {
@@ -1390,9 +1147,6 @@
             },
             "properties": {
                 "name": "Haritaki Bagan",
-                "styleUrl": "#style193",
-                "styleHash": "37de85df",
-                "description": "Durga puja of Haritaki Bagan"
             }
         },
         {
@@ -1407,9 +1161,6 @@
             },
             "properties": {
                 "name": "Sovabazar Sarbojanin",
-                "styleUrl": "#style222",
-                "styleHash": "12579f18",
-                "description": "Durga puja of Sovabazar Sarbojanin"
             }
         },
         {
@@ -1424,9 +1175,6 @@
             },
             "properties": {
                 "name": "Hatkhola Gosain Para",
-                "styleUrl": "#style115",
-                "styleHash": "-832246b",
-                "description": "Durga puja of Hatkhola Gosain Para"
             }
         },
         {
@@ -1441,9 +1189,6 @@
             },
             "properties": {
                 "name": "Laketown Vivekananda Park",
-                "styleUrl": "#style204",
-                "styleHash": "-28fd9d2c",
-                "description": "Durga puja of Laketown Vivekananda Park"
             }
         },
         {
@@ -1458,9 +1203,6 @@
             },
             "properties": {
                 "name": "Jawpur Bayam Samiti",
-                "styleUrl": "#style81",
-                "styleHash": "-271627f9",
-                "description": "Durga puja of Jawpur Bayam Samiti"
             }
         },
         {
@@ -1475,9 +1217,6 @@
             },
             "properties": {
                 "name": "Pragati Pally Adhibasi Brindra",
-                "styleUrl": "#style208",
-                "styleHash": "-472b21b0",
-                "description": "Durga puja of Pragati Pally Adhibasi Brindra"
             }
         },
         {
@@ -1492,9 +1231,6 @@
             },
             "properties": {
                 "name": "Kabiraj Bagan",
-                "styleUrl": "#style14",
-                "styleHash": "-5892f663",
-                "description": "Durga puja of Kabiraj Bagan"
             }
         },
         {
@@ -1509,9 +1245,6 @@
             },
             "properties": {
                 "name": "Murari Pukur Bidhan Sangha",
-                "styleUrl": "#style166",
-                "styleHash": "5edeab79",
-                "description": "Durga puja of Murari Pukur Bidhan Sangha"
             }
         },
         {
@@ -1526,9 +1259,6 @@
             },
             "properties": {
                 "name": "Salt Lake AD Block",
-                "styleUrl": "#style104",
-                "styleHash": "-16c6004b",
-                "description": "Durga puja of Salt Lake AD Block"
             }
         },
         {
@@ -1543,9 +1273,6 @@
             },
             "properties": {
                 "name": "Salt Lake AG Block",
-                "styleUrl": "#style36",
-                "styleHash": "-3b6b3ea3",
-                "description": "Durga puja of Salt Lake AG Block"
             }
         },
         {
@@ -1560,9 +1287,6 @@
             },
             "properties": {
                 "name": "Sangrami",
-                "styleUrl": "#style26",
-                "styleHash": "-118a7ba4",
-                "description": "Durga puja of Sangrami"
             }
         },
         {
@@ -1577,9 +1301,6 @@
             },
             "properties": {
                 "name": "Tarun Sporting Club",
-                "styleUrl": "#style72",
-                "styleHash": "3b3f39e5",
-                "description": "Durga puja of Tarun Sporting Club"
             }
         },
         {
@@ -1594,9 +1315,6 @@
             },
             "properties": {
                 "name": "Shimla Vivekananda Sporting Club",
-                "styleUrl": "#style61",
-                "styleHash": "2cab5e05",
-                "description": "Durga puja of Shimla Vivekananda Sporting Club"
             }
         },
         {
@@ -1611,9 +1329,6 @@
             },
             "properties": {
                 "name": "Shurir Bagan",
-                "styleUrl": "#style43",
-                "styleHash": "-ea9de3f",
-                "description": "Durga puja of Shurir Bagan"
             }
         },
         {
@@ -1628,9 +1343,6 @@
             },
             "properties": {
                 "name": "Salt Lake CA Block",
-                "styleUrl": "#style59",
-                "styleHash": "1a3117fc",
-                "description": "Durga puja of Salt Lake CA Block"
             }
         },
         {
@@ -1645,9 +1357,6 @@
             },
             "properties": {
                 "name": "Salt Lake BG Block",
-                "styleUrl": "#style86",
-                "styleHash": "-ccf0d9e",
-                "description": "Durga puja of Salt Lake BG Block"
             }
         },
         {
@@ -1662,9 +1371,6 @@
             },
             "properties": {
                 "name": "Salt Lake AH Block",
-                "styleUrl": "#style37",
-                "styleHash": "-2f69fc4",
-                "description": "Durga puja of Salt Lake AH Block"
             }
         },
         {
@@ -1679,9 +1385,6 @@
             },
             "properties": {
                 "name": "Park Circus",
-                "styleUrl": "#style158",
-                "styleHash": "-65753ca",
-                "description": "Durga puja of Park Circus"
             }
         },
         {
@@ -1696,9 +1399,6 @@
             },
             "properties": {
                 "name": "Maddox Square",
-                "styleUrl": "#style29",
-                "styleHash": "-5bbbfa03",
-                "description": "Durga puja of Maddox Square"
             }
         },
         {
@@ -1713,9 +1413,6 @@
             },
             "properties": {
                 "name": "Deshapriya Park",
-                "styleUrl": "#style125",
-                "styleHash": "-64d962a6",
-                "description": "Durga puja of Deshapriya Park"
             }
         },
         {
@@ -1730,9 +1427,6 @@
             },
             "properties": {
                 "name": "41 Pally",
-                "styleUrl": "#style178",
-                "styleHash": "186d887c",
-                "description": "Durga puja of 41 Pally"
             }
         },
         {
@@ -1747,9 +1441,6 @@
             },
             "properties": {
                 "name": "Ajeya Sanghati",
-                "styleUrl": "#style47",
-                "styleHash": "-2cd762c3",
-                "description": "Durga puja of Ajeya Sanghati"
             }
         },
         {
@@ -1764,9 +1455,6 @@
             },
             "properties": {
                 "name": "Vivekananda Sporting Club",
-                "styleUrl": "#style133",
-                "styleHash": "332317d9",
-                "description": "Durga puja of Vivekananda Sporting Club"
             }
         },
         {
@@ -1781,9 +1469,6 @@
             },
             "properties": {
                 "name": "Vivekananda Park Athletic Club",
-                "styleUrl": "#style22",
-                "styleHash": "2d4c3924",
-                "description": "Durga puja of Vivekananda Park Athletic Club"
             }
         },
         {
@@ -1798,9 +1483,6 @@
             },
             "properties": {
                 "name": "Pally Unnayan Samity Paschim Putiary",
-                "styleUrl": "#style137",
-                "styleHash": "14f59355",
-                "description": "Durga puja of Pally Unnayan Samity Paschim Putiary"
             }
         },
         {
@@ -1815,9 +1497,6 @@
             },
             "properties": {
                 "name": "Naskarpara Pally Unnayan Samity - Haridevpur",
-                "styleUrl": "#style223",
-                "styleHash": "4b508da0",
-                "description": "Durga puja of Naskarpara Pally Unnayan Samity - Haridevpur"
             }
         },
         {
@@ -1832,9 +1511,6 @@
             },
             "properties": {
                 "name": "Barisha Club, Srishti Sahajatri",
-                "styleUrl": "#style224",
-                "styleHash": "-7cbf232a",
-                "description": "Durga puja of Barisha Club, Srishti Sahajatri"
             }
         },
         {
@@ -1849,9 +1525,6 @@
             },
             "properties": {
                 "name": "Barisha Janakalyan Sangha",
-                "styleUrl": "#style19",
-                "styleHash": "2793e0e1",
-                "description": "Durga puja of Barisha Janakalyan Sangha"
             }
         },
         {
@@ -1866,9 +1539,6 @@
             },
             "properties": {
                 "name": "Sabeda Bagan",
-                "styleUrl": "#style103",
-                "styleHash": "5b71959a",
-                "description": "Durga puja of Sabeda Bagan"
             }
         },
         {
@@ -1883,9 +1553,6 @@
             },
             "properties": {
                 "name": "Behala Club",
-                "styleUrl": "#style134",
-                "styleHash": "-5a881c5f",
-                "description": "Durga puja of Behala Club"
             }
         },
         {
@@ -1900,9 +1567,6 @@
             },
             "properties": {
                 "name": "Debdaru Fatak",
-                "styleUrl": "#style106",
-                "styleHash": "-7191ee09",
-                "description": "Durga puja of Debdaru Fatak"
             }
         },
         {
@@ -1917,9 +1581,6 @@
             },
             "properties": {
                 "name": "Behala Sree Sangha",
-                "styleUrl": "#style102",
-                "styleHash": "-2bd5ee60",
-                "description": "Durga puja of Behala Sree Sangha"
             }
         },
         {
@@ -1934,9 +1595,6 @@
             },
             "properties": {
                 "name": "Behala Youngmen's Association",
-                "styleUrl": "#style100",
-                "styleHash": "2875193d",
-                "description": "Durga puja of Behala Youngmen's Association"
             }
         },
         {
@@ -1951,9 +1609,6 @@
             },
             "properties": {
                 "name": "Behala Adarsha Pally",
-                "styleUrl": "#style34",
-                "styleHash": "53ab839f",
-                "description": "Durga puja of Behala Adarsha Pally"
             }
         },
         {
@@ -1968,9 +1623,6 @@
             },
             "properties": {
                 "name": "Badamtala Ashar Sangha",
-                "styleUrl": "#style186",
-                "styleHash": "-671c39a5",
-                "description": "Durga puja of Badamtala Ashar Sangha"
             }
         },
         {
@@ -1985,9 +1637,6 @@
             },
             "properties": {
                 "name": "Behala Nutan Dal",
-                "styleUrl": "#style209",
-                "styleHash": "-eb682d1",
-                "description": "Durga puja of Behala Nutan Dal"
             }
         },
         {
@@ -2002,9 +1651,6 @@
             },
             "properties": {
                 "name": "Bosepukur Talbagan",
-                "styleUrl": "#style93",
-                "styleHash": "-54c386d1",
-                "description": "Durga puja of Bosepukur Talbagan"
             }
         },
         {
@@ -2019,9 +1665,6 @@
             },
             "properties": {
                 "name": "Rajdanga Tribarna Sangha",
-                "styleUrl": "#style143",
-                "styleHash": "-691fab62",
-                "description": "Durga puja of Rajdanga Tribarna Sangha"
             }
         },
         {
@@ -2036,9 +1679,6 @@
             },
             "properties": {
                 "name": "Bosepukur Sitala Mandir",
-                "styleUrl": "#style216",
-                "styleHash": "69e40a17",
-                "description": "Durga puja of Bosepukur Sitala Mandir"
             }
         },
         {
@@ -2053,9 +1693,6 @@
             },
             "properties": {
                 "name": "Singhi Park",
-                "styleUrl": "#style99",
-                "styleHash": "-990cd17",
-                "description": "Durga puja of Singhi Park"
             }
         },
         {
@@ -2070,9 +1707,6 @@
             },
             "properties": {
                 "name": "Ekdalia Evergreen Club",
-                "styleUrl": "#style175",
-                "styleHash": "-113ca9bc",
-                "description": "Durga puja of Ekdalia Evergreen Club"
             }
         },
         {
@@ -2087,9 +1721,6 @@
             },
             "properties": {
                 "name": "Jodhpur Park",
-                "styleUrl": "#style206",
-                "styleHash": "3d3315fb",
-                "description": "Durga puja of Jodhpur Park"
             }
         },
         {
@@ -2104,9 +1735,6 @@
             },
             "properties": {
                 "name": "Selimpur Pally",
-                "styleUrl": "#style111",
-                "styleHash": "484f9d1d",
-                "description": "Durga puja of Selimpur Pally"
             }
         },
         {
@@ -2121,9 +1749,6 @@
             },
             "properties": {
                 "name": "Santoshpur Lake Pally",
-                "styleUrl": "#style207",
-                "styleHash": "-7f9fc08f",
-                "description": "Durga puja of Santoshpur Lake Pally"
             }
         },
         {
@@ -2138,9 +1763,6 @@
             },
             "properties": {
                 "name": "Mudiali Club",
-                "styleUrl": "#style120",
-                "styleHash": "-4c5a01c5",
-                "description": "Durga puja of Mudiali Club"
             }
         },
         {
@@ -2155,9 +1777,6 @@
             },
             "properties": {
                 "name": "Shibmandir Sarbojanin Durgotsab",
-                "styleUrl": "#style182",
-                "styleHash": "294aa9ff",
-                "description": "Durga puja of Shibmandir Sarbojanin Durgotsab"
             }
         },
         {
@@ -2172,9 +1791,6 @@
             },
             "properties": {
                 "name": "Naktala Udayan Sangha",
-                "styleUrl": "#style162",
-                "styleHash": "7d0c2ffd",
-                "description": "Durga puja of Naktala Udayan Sangha"
             }
         },
         {
@@ -2189,9 +1805,6 @@
             },
             "properties": {
                 "name": "Rajdanga Naba Uday Sangha",
-                "styleUrl": "#style187",
-                "styleHash": "164a641e",
-                "description": "Durga puja of Rajdanga Naba Uday Sangha"
             }
         },
         {
@@ -2206,9 +1819,6 @@
             },
             "properties": {
                 "name": "Suruchi Sangha",
-                "styleUrl": "#style159",
-                "styleHash": "321d4b15",
-                "description": "Durga puja of Suruchi Sangha"
             }
         },
         {
@@ -2223,9 +1833,6 @@
             },
             "properties": {
                 "name": "Tridhara Sammilani",
-                "styleUrl": "#style89",
-                "styleHash": "-63713101",
-                "description": "Durga puja of Tridhara Sammilani"
             }
         },
         {
@@ -2240,9 +1847,6 @@
             },
             "properties": {
                 "name": "Pratapaditya Road Tricone Park",
-                "styleUrl": "#style136",
-                "styleHash": "693376df",
-                "description": "Durga puja of Pratapaditya Road Tricone Park"
             }
         },
         {
@@ -2257,9 +1861,6 @@
             },
             "properties": {
                 "name": "Sanghasree",
-                "styleUrl": "#style200",
-                "styleHash": "-ad018a8",
-                "description": "Durga puja of Sanghasree"
             }
         },
         {
@@ -2274,9 +1875,6 @@
             },
             "properties": {
                 "name": "25 Pally",
-                "styleUrl": "#style73",
-                "styleHash": "73b3d8c4",
-                "description": "Durga puja of 25 Pally"
             }
         },
         {
@@ -2291,9 +1889,6 @@
             },
             "properties": {
                 "name": "Mukul Sangha",
-                "styleUrl": "#style18",
-                "styleHash": "45b61742",
-                "description": "Durga puja of Mukul Sangha"
             }
         },
         {
@@ -2308,9 +1903,6 @@
             },
             "properties": {
                 "name": "66 Palli",
-                "styleUrl": "#style196",
-                "styleHash": "-1ec39d84",
-                "description": "Durga puja of 66 Palli"
             }
         },
         {
@@ -2325,9 +1917,6 @@
             },
             "properties": {
                 "name": "Hindustan Park",
-                "styleUrl": "#style191",
-                "styleHash": "-390ab7df",
-                "description": "Durga puja of Hindustan Park"
             }
         },
         {
@@ -2342,9 +1931,6 @@
             },
             "properties": {
                 "name": "Adi Lake Palli",
-                "styleUrl": "#style122",
-                "styleHash": "682a20fd",
-                "description": "Durga puja of Adi Lake Palli"
             }
         },
         {
@@ -2359,9 +1945,6 @@
             },
             "properties": {
                 "name": "Azadgarh",
-                "styleUrl": "#style30",
-                "styleHash": "1a2a40a7",
-                "description": "Durga puja of Azadgarh"
             }
         },
         {
@@ -2376,9 +1959,6 @@
             },
             "properties": {
                 "name": "Bharat Mata",
-                "styleUrl": "#style10",
-                "styleHash": "36c7ca4a",
-                "description": "Durga puja of Bharat Mata"
             }
         },
         {
@@ -2393,9 +1973,6 @@
             },
             "properties": {
                 "name": "Golfgreen Phase 2",
-                "styleUrl": "#style23",
-                "styleHash": "4517a7bf",
-                "description": "Durga puja of Golfgreen Phase 2"
             }
         },
         {
@@ -2410,9 +1987,6 @@
             },
             "properties": {
                 "name": "Santoshpur Trikon Park",
-                "styleUrl": "#style96",
-                "styleHash": "-36afd09d",
-                "description": "Durga puja of Santoshpur Trikon Park"
             }
         },
         {
@@ -2427,9 +2001,6 @@
             },
             "properties": {
                 "name": "Yuba Sangha Club",
-                "styleUrl": "#style119",
-                "styleHash": "-2fb9c1eb",
-                "description": "Durga puja of Yuba Sangha Club"
             }
         },
         {
@@ -2444,9 +2015,6 @@
             },
             "properties": {
                 "name": "Netaji Nagar Sarbojanin",
-                "styleUrl": "#style74",
-                "styleHash": "-666bafd9",
-                "description": "Durga puja of Netaji Nagar Sarbojanin"
             }
         },
         {
@@ -2461,9 +2029,6 @@
             },
             "properties": {
                 "name": "Netaji Jatiya Sebadal",
-                "styleUrl": "#style17",
-                "styleHash": "50cae63a",
-                "description": "Durga puja of Netaji Jatiya Sebadal"
             }
         },
         {
@@ -2478,9 +2043,6 @@
             },
             "properties": {
                 "name": "New Alipore Children's Park",
-                "styleUrl": "#style152",
-                "styleHash": "-6a8cdb1b",
-                "description": "Durga puja of New Alipore Children's Park"
             }
         },
         {
@@ -2495,9 +2057,6 @@
             },
             "properties": {
                 "name": "Pally Mangal Samity",
-                "styleUrl": "#style75",
-                "styleHash": "-44bec815",
-                "description": "Durga puja of Pally Mangal Samity"
             }
         },
         {
@@ -2512,9 +2071,6 @@
             },
             "properties": {
                 "name": "Poddar Nagar Park",
-                "styleUrl": "#style230",
-                "styleHash": "-6d64fc",
-                "description": "Durga puja of Poddar Nagar Park"
             }
         },
         {
@@ -2529,9 +2085,6 @@
             },
             "properties": {
                 "name": "Chakraberia Sarbojanin",
-                "styleUrl": "#style70",
-                "styleHash": "5598ffab",
-                "description": "Durga puja of Chakraberia Sarbojanin"
             }
         },
         {
@@ -2546,9 +2099,6 @@
             },
             "properties": {
                 "name": "Babubagan Club",
-                "styleUrl": "#style228",
-                "styleHash": "65135852",
-                "description": "Durga puja of Babubagan Club"
             }
         },
         {
@@ -2563,9 +2113,6 @@
             },
             "properties": {
                 "name": "Barisha Tarun Tirtha",
-                "styleUrl": "#style185",
-                "styleHash": "-2d577964",
-                "description": "Durga puja of Barisha Tarun Tirtha"
             }
         },
         {
@@ -2580,9 +2127,6 @@
             },
             "properties": {
                 "name": "74 Pally",
-                "styleUrl": "#style184",
-                "styleHash": "-1cb2183f",
-                "description": "Durga puja of 74 Pally"
             }
         },
         {
@@ -2597,9 +2141,6 @@
             },
             "properties": {
                 "name": "Kabitirtha",
-                "styleUrl": "#style27",
-                "styleHash": "-7db9a241",
-                "description": "Durga puja of Kabitirtha"
             }
         },
         {
@@ -2614,9 +2155,6 @@
             },
             "properties": {
                 "name": "Pally Saradiya Club",
-                "styleUrl": "#style192",
-                "styleHash": "-961900",
-                "description": "Durga puja of Pally Saradiya Club"
             }
         },
         {
@@ -2631,9 +2169,6 @@
             },
             "properties": {
                 "name": "Behala 29 Palli",
-                "styleUrl": "#style2",
-                "styleHash": "-4620b9e8",
-                "description": "Durga puja of Behala 29 Palli"
             }
         },
         {
@@ -2648,9 +2183,6 @@
             },
             "properties": {
                 "name": "Baishnabghata Patuli Upanagari",
-                "styleUrl": "#style176",
-                "styleHash": "-9901fc2",
-                "description": "Durga puja of Baishnabghata Patuli Upanagari"
             }
         },
         {
@@ -2665,9 +2197,6 @@
             },
             "properties": {
                 "name": "Kendua Shanti Sangha - Patuli",
-                "styleUrl": "#style9",
-                "styleHash": "-457051a6",
-                "description": "Durga puja of Kendua Shanti Sangha - Patuli"
             }
         },
         {
@@ -2682,9 +2211,6 @@
             },
             "properties": {
                 "name": "Falguni Sangha",
-                "styleUrl": "#style35",
-                "styleHash": "6f246542",
-                "description": "Durga puja of Falguni Sangha"
             }
         },
         {
@@ -2699,9 +2225,6 @@
             },
             "properties": {
                 "name": "Chetla Agrani Club",
-                "styleUrl": "#style147",
-                "styleHash": "-25245ae6",
-                "description": "Durga puja of Chetla Agrani Club"
             }
         },
         {
@@ -2716,9 +2239,6 @@
             },
             "properties": {
                 "name": "Chelta Sarbasadharaner Club",
-                "styleUrl": "#style156",
-                "styleHash": "-77409188",
-                "description": "Durga puja of Chelta Sarbasadharaner Club"
             }
         },
         {
@@ -2733,9 +2253,6 @@
             },
             "properties": {
                 "name": "Selimpur Naskarpara",
-                "styleUrl": "#style39",
-                "styleHash": "-24b54a9d",
-                "description": "Durga puja of Selimpur Naskarpara"
             }
         },
         {
@@ -2750,9 +2267,6 @@
             },
             "properties": {
                 "name": "Bengal United Club",
-                "styleUrl": "#style71",
-                "styleHash": "33ca116f",
-                "description": "Durga puja of Bengal United Club"
             }
         },
         {
@@ -2767,9 +2281,6 @@
             },
             "properties": {
                 "name": "Chandranath Chatterjee Street",
-                "styleUrl": "#style69",
-                "styleHash": "b633199",
-                "description": "Durga puja of Chandranath Chatterjee Street"
             }
         },
         {
@@ -2784,9 +2295,6 @@
             },
             "properties": {
                 "name": "Greenwood Nook",
-                "styleUrl": "#style215",
-                "styleHash": "-4acf4963",
-                "description": "Durga puja of Greenwood Nook"
             }
         },
         {
@@ -2801,9 +2309,6 @@
             },
             "properties": {
                 "name": "Sebak Sangha",
-                "styleUrl": "#style202",
-                "styleHash": "170d09da",
-                "description": "Durga puja of Sebak Sangha"
             }
         },
         {
@@ -2818,9 +2323,6 @@
             },
             "properties": {
                 "name": "Dilip Smriti Sangha",
-                "styleUrl": "#style149",
-                "styleHash": "5bfe0e14",
-                "description": "Durga puja of Dilip Smriti Sangha"
             }
         },
         {
@@ -2835,9 +2337,6 @@
             },
             "properties": {
                 "name": "Lake Youth Corner",
-                "styleUrl": "#style54",
-                "styleHash": "25ac99ca",
-                "description": "Durga puja of Lake Youth Corner"
             }
         },
         {
@@ -2852,9 +2351,6 @@
             },
             "properties": {
                 "name": "Ekush Pally Sarbojanin Durgotsab",
-                "styleUrl": "#style220",
-                "styleHash": "-5e919ea6",
-                "description": "Durga puja of Ekush Pally Sarbojanin Durgotsab"
             }
         },
         {
@@ -2869,9 +2365,6 @@
             },
             "properties": {
                 "name": "Acharya Prafulla Sangha - Behala",
-                "styleUrl": "#style194",
-                "styleHash": "705324be",
-                "description": "Durga puja of Acharya Prafulla Sangha - Behala"
             }
         },
         {
@@ -2886,9 +2379,6 @@
             },
             "properties": {
                 "name": "Adi Ballygunge",
-                "styleUrl": "#style45",
-                "styleHash": "-525106d8",
-                "description": "Durga puja of Adi Ballygunge"
             }
         },
         {
@@ -2903,9 +2393,6 @@
             },
             "properties": {
                 "name": "Ballygunge Cultural Association",
-                "styleUrl": "#style55",
-                "styleHash": "385e9c80",
-                "description": "Durga puja of Ballygunge Cultural Association"
             }
         },
         {
@@ -2920,9 +2407,6 @@
             },
             "properties": {
                 "name": "Barisha Player's Corner",
-                "styleUrl": "#style108",
-                "styleHash": "-4f9445cb",
-                "description": "Durga puja of Barisha Player's Corner"
             }
         },
         {
@@ -2937,9 +2421,6 @@
             },
             "properties": {
                 "name": "Barisha Sabuj Sathi Club",
-                "styleUrl": "#style180",
-                "styleHash": "-60ad68bb",
-                "description": "Durga puja of Barisha Sabuj Sathi Club"
             }
         },
         {
@@ -2954,9 +2435,6 @@
             },
             "properties": {
                 "name": "Barisha Tapoban",
-                "styleUrl": "#style41",
-                "styleHash": "-7f931bfd",
-                "description": "Durga puja of Barisha Tapoban"
             }
         },
         {
@@ -2971,9 +2449,6 @@
             },
             "properties": {
                 "name": "Behala Arcadia Sarbojanin",
-                "styleUrl": "#style52",
-                "styleHash": "59df4867",
-                "description": "Durga puja of Behala Arcadia Sarbojanin"
             }
         },
         {
@@ -2988,9 +2463,6 @@
             },
             "properties": {
                 "name": "Durgabari",
-                "styleUrl": "#style65",
-                "styleHash": "e7dd981",
-                "description": "Durga puja of Durgabari"
             }
         },
         {
@@ -3005,9 +2477,6 @@
             },
             "properties": {
                 "name": "Ganbani Sangha",
-                "styleUrl": "#style199",
-                "styleHash": "-7565c0e7",
-                "description": "Durga puja of Ganbani Sangha"
             }
         },
         {
@@ -3022,9 +2491,6 @@
             },
             "properties": {
                 "name": "Samaj Sebi Sangha",
-                "styleUrl": "#style212",
-                "styleHash": "25e8b99b",
-                "description": "Durga puja of Samaj Sebi Sangha"
             }
         },
         {
@@ -3039,9 +2505,6 @@
             },
             "properties": {
                 "name": "Sodepur Pragati Sangha (Haridevpur)",
-                "styleUrl": "#style188",
-                "styleHash": "7c066339",
-                "description": "Durga puja of Sodepur Pragati Sangha (Haridevpur)"
             }
         },
         {
@@ -3056,9 +2519,6 @@
             },
             "properties": {
                 "name": "Santoshpur Sonar Tori Durgatsav",
-                "styleUrl": "#style181",
-                "styleHash": "-3ed865f7",
-                "description": "Durga puja of Santoshpur Sonar Tori Durgatsav"
             }
         },
         {
@@ -3073,9 +2533,6 @@
             },
             "properties": {
                 "name": "Abasar Sarbojonin",
-                "styleUrl": "#style95",
-                "styleHash": "6ef80c6d",
-                "description": "Durga puja of Abasar Sarbojonin"
             }
         },
         {
@@ -3090,9 +2547,6 @@
             },
             "properties": {
                 "name": "Goal Math",
-                "styleUrl": "#style118",
-                "styleHash": "7938359b",
-                "description": "Durga puja of Goal Math"
             }
         },
         {
@@ -3107,9 +2561,6 @@
             },
             "properties": {
                 "name": "Barisha Netaji Sangha",
-                "styleUrl": "#style197",
-                "styleHash": "19b1015b",
-                "description": "Durga puja of Barisha Netaji Sangha"
             }
         },
         {
@@ -3124,9 +2575,6 @@
             },
             "properties": {
                 "name": "Behala Buroshibtala Janakalyan Sangha",
-                "styleUrl": "#style11",
-                "styleHash": "-1f0d300",
-                "description": "Durga puja of Behala Buroshibtala Janakalyan Sangha"
             }
         },
         {
@@ -3141,9 +2589,6 @@
             },
             "properties": {
                 "name": "Jogajatri Club",
-                "styleUrl": "#style101",
-                "styleHash": "3973ed5c",
-                "description": "Durga puja of Jogajatri Club"
             }
         },
         {
@@ -3158,9 +2603,6 @@
             },
             "properties": {
                 "name": "Surya Nagar Sarbojanin",
-                "styleUrl": "#style84",
-                "styleHash": "-57900018",
-                "description": "Durga puja of Surya Nagar Sarbojanin"
             }
         },
         {
@@ -3175,9 +2617,6 @@
             },
             "properties": {
                 "name": "Udayan Sangha",
-                "styleUrl": "#style50",
-                "styleHash": "1e178225",
-                "description": "Durga puja of Udayan Sangha"
             }
         },
         {
@@ -3192,9 +2631,6 @@
             },
             "properties": {
                 "name": "Uttar Panchanan Gram Milan",
-                "styleUrl": "#style88",
-                "styleHash": "641a3020",
-                "description": "Durga puja of Uttar Panchanan Gram Milan"
             }
         },
         {
@@ -3209,9 +2645,6 @@
             },
             "properties": {
                 "name": "Golden Arrow Club",
-                "styleUrl": "#style198",
-                "styleHash": "3624e7fe",
-                "description": "Durga puja of Golden Arrow Club"
             }
         },
         {
@@ -3226,9 +2659,6 @@
             },
             "properties": {
                 "name": "Purbachal Shakti Sangha",
-                "styleUrl": "#style205",
-                "styleHash": "5b554c5c",
-                "description": "Durga puja of Purbachal Shakti Sangha"
             }
         },
         {
@@ -3243,9 +2673,6 @@
             },
             "properties": {
                 "name": "Naskarpur Sarbojanin",
-                "styleUrl": "#style138",
-                "styleHash": "2cef0a1d",
-                "description": "Durga puja of Naskarpur Sarbojanin"
             }
         },
         {
@@ -3260,9 +2687,6 @@
             },
             "properties": {
                 "name": "Kolkata",
-                "styleUrl": "#style203",
-                "styleHash": "-61723c0b",
-                "description": "Durga puja of Kolkata"
             }
         },
         {
@@ -3277,9 +2701,6 @@
             },
             "properties": {
                 "name": "64 Pally",
-                "styleUrl": "#style195",
-                "styleHash": "3286ba1",
-                "description": "Durga puja of 64 Pally"
             }
         },
         {
@@ -3294,9 +2715,6 @@
             },
             "properties": {
                 "name": "95 Pally",
-                "styleUrl": "#style38",
-                "styleHash": "-5ddf1e61",
-                "description": "Durga puja of 95 Pally"
             }
         },
         {
@@ -3311,9 +2729,6 @@
             },
             "properties": {
                 "name": "Bandhab Sammilani",
-                "styleUrl": "#style114",
-                "styleHash": "-40a6c34a",
-                "description": "Durga puja of Bandhab Sammilani"
             }
         },
         {
@@ -3328,9 +2743,6 @@
             },
             "properties": {
                 "name": "The Bengal Boys Training Association",
-                "styleUrl": "#style145",
-                "styleHash": "-1ecee87f",
-                "description": "Durga puja of The Bengal Boys Training Association"
             }
         },
         {
@@ -3345,9 +2757,6 @@
             },
             "properties": {
                 "name": "Nepal Bhattacharjee Street",
-                "styleUrl": "#style109",
-                "styleHash": "-3e9571ac",
-                "description": "Durga puja of Nepal Bhattacharjee Street"
             }
         },
         {
@@ -3362,9 +2771,6 @@
             },
             "properties": {
                 "name": "Roynagar Unnayan Samity",
-                "styleUrl": "#style4",
-                "styleHash": "513abe3f",
-                "description": "Durga puja of Roynagar Unnayan Samity"
             }
         },
         {
@@ -3379,9 +2785,6 @@
             },
             "properties": {
                 "name": "Shyamapally Shyama Sangha",
-                "styleUrl": "#style127",
-                "styleHash": "-42dbba68",
-                "description": "Durga puja of Shyamapally Shyama Sangha"
             }
         },
         {
@@ -3396,9 +2799,6 @@
             },
             "properties": {
                 "name": "Garia Sreerampur Kalyan Samity",
-                "styleUrl": "#style174",
-                "styleHash": "-2b8dc800",
-                "description": "Durga puja of Garia Sreerampur Kalyan Samity"
             }
         },
         {
@@ -3413,9 +2813,6 @@
             },
             "properties": {
                 "name": "Bhowanipur Swadhin Sangha",
-                "styleUrl": "#style53",
-                "styleHash": "-388aa13e",
-                "description": "Durga puja of Bhowanipur Swadhin Sangha"
             }
         },
         {
@@ -3430,9 +2827,6 @@
             },
             "properties": {
                 "name": "Dakshin Phalguni Club",
-                "styleUrl": "#style13",
-                "styleHash": "-239ed8d9",
-                "description": "Durga puja of Dakshin Phalguni Club"
             }
         },
         {
@@ -3447,9 +2841,6 @@
             },
             "properties": {
                 "name": "Garia Pancha Durga",
-                "styleUrl": "#style213",
-                "styleHash": "36e78dba",
-                "description": "Durga puja of Garia Pancha Durga"
             }
         },
         {
@@ -3464,9 +2855,6 @@
             },
             "properties": {
                 "name": "Garia Sabuj Dal",
-                "styleUrl": "#style164",
-                "styleHash": "-120a9245",
-                "description": "Durga puja of Garia Sabuj Dal"
             }
         },
         {
@@ -3481,9 +2869,6 @@
             },
             "properties": {
                 "name": "Harish Park Puja",
-                "styleUrl": "#style131",
-                "styleHash": "-3dc625e5",
-                "description": "Durga puja of Harish Park Puja"
             }
         },
         {
@@ -3498,9 +2883,6 @@
             },
             "properties": {
                 "name": "Jatra Suru Sangha",
-                "styleUrl": "#style201",
-                "styleHash": "2da48637",
-                "description": "Durga puja of Jatra Suru Sangha"
             }
         },
         {
@@ -3515,9 +2897,6 @@
             },
             "properties": {
                 "name": "Judge Bagan Recreation Club",
-                "styleUrl": "#style85",
-                "styleHash": "-4543ac7d",
-                "description": "Durga puja of Judge Bagan Recreation Club"
             }
         },
         {
@@ -3532,9 +2911,6 @@
             },
             "properties": {
                 "name": "Green Avenue Sarbojanin",
-                "styleUrl": "#style139",
-                "styleHash": "eccd3bc",
-                "description": "Durga puja of Green Avenue Sarbojanin"
             }
         },
         {
@@ -3549,9 +2925,6 @@
             },
             "properties": {
                 "name": "Rupchand Mukherjee Lane Sarbojanin",
-                "styleUrl": "#style46",
-                "styleHash": "-654c01a2",
-                "description": "Durga puja of Rupchand Mukherjee Lane Sarbojanin"
             }
         },
         {
@@ -3566,9 +2939,6 @@
             },
             "properties": {
                 "name": "Santoshpur Agragami",
-                "styleUrl": "#style160",
-                "styleHash": "-7e64c83d",
-                "description": "Durga puja of Santoshpur Agragami"
             }
         },
         {
@@ -3583,9 +2953,6 @@
             },
             "properties": {
                 "name": "Santoshpur Bibekananda Sangha",
-                "styleUrl": "#style132",
-                "styleHash": "-5518706",
-                "description": "Durga puja of Santoshpur Bibekananda Sangha"
             }
         },
         {
@@ -3600,9 +2967,6 @@
             },
             "properties": {
                 "name": "Lake Pally Sarbojanin",
-                "styleUrl": "#style163",
-                "styleHash": "-2ed3a73b",
-                "description": "Durga puja of Lake Pally Sarbojanin"
             }
         },
         {
@@ -3617,9 +2981,6 @@
             },
             "properties": {
                 "name": "Golfgreen Phase 1",
-                "styleUrl": "#style171",
-                "styleHash": "1ab6ce1f",
-                "description": "Durga puja of Golfgreen Phase 1"
             }
         },
         {
@@ -3634,9 +2995,6 @@
             },
             "properties": {
                 "name": "19 Pally",
-                "styleUrl": "#style57",
-                "styleHash": "-56b825c2",
-                "description": "Durga puja of 19 Pally"
             }
         },
         {
@@ -3651,9 +3009,6 @@
             },
             "properties": {
                 "name": "68 Pally",
-                "styleUrl": "#style16",
-                "styleHash": "626bd9df",
-                "description": "Durga puja of 68 Pally"
             }
         },
         {
@@ -3668,9 +3023,6 @@
             },
             "properties": {
                 "name": "77 Palli",
-                "styleUrl": "#style116",
-                "styleHash": "30427a74",
-                "description": "Durga puja of 77 Palli"
             }
         },
         {
@@ -3685,9 +3037,6 @@
             },
             "properties": {
                 "name": "Abasarika Club",
-                "styleUrl": "#style42",
-                "styleHash": "-471e7d1e",
-                "description": "Durga puja of Abasarika Club"
             }
         },
         {
@@ -3702,9 +3051,6 @@
             },
             "properties": {
                 "name": "Bakul Bagan Sarbojanin",
-                "styleUrl": "#style189",
-                "styleHash": "-4b84fde8",
-                "description": "Durga puja of Bakul Bagan Sarbojanin"
             }
         },
         {
@@ -3719,9 +3065,6 @@
             },
             "properties": {
                 "name": "Haridevpur Adarsha Samiti",
-                "styleUrl": "#style168",
-                "styleHash": "-303816c9",
-                "description": "Durga puja of Haridevpur Adarsha Samiti"
             }
         },
         {
@@ -3736,9 +3079,6 @@
             },
             "properties": {
                 "name": "Hindustan Club",
-                "styleUrl": "#style28",
-                "styleHash": "5f5ec21a",
-                "description": "Durga puja of Hindustan Club"
             }
         },
         {
@@ -3753,9 +3093,6 @@
             },
             "properties": {
                 "name": "Manoharpukur Youngs",
-                "styleUrl": "#style24",
-                "styleHash": "7d8c469e",
-                "description": "Durga puja of Bakul Bagan Sarbojanin"
             }
         },
         {
@@ -3770,9 +3107,6 @@
             },
             "properties": {
                 "name": "Haridevpur Adarsha Samiti",
-                "styleUrl": "#style87",
-                "styleHash": "2ba59141",
-                "description": "Durga puja of Haridevpur Adarsha Samiti"
             }
         },
         {
@@ -3787,9 +3121,6 @@
             },
             "properties": {
                 "name": "Hindustan Club",
-                "styleUrl": "#style92",
-                "styleHash": "-18824c19",
-                "description": "Durga puja of Hindustan Club"
             }
         },
         {
@@ -3804,9 +3135,6 @@
             },
             "properties": {
                 "name": "Manoharpukur Youngs",
-                "styleUrl": "#style67",
-                "styleHash": "252160e8",
-                "description": "Durga puja of Manoharpukur Youngs"
             }
         },
         {
@@ -3821,9 +3149,6 @@
             },
             "properties": {
                 "name": "Padmapukur Youth Association",
-                "styleUrl": "#style126",
-                "styleHash": "-53da8e87",
-                "description": "Durga puja of Padmapukur Youth Association"
             }
         },
         {
@@ -3838,9 +3163,6 @@
             },
             "properties": {
                 "name": "Padmapukur Baroyari",
-                "styleUrl": "#style21",
-                "styleHash": "7280fe2a",
-                "description": "Durga puja of Padmapukur Baroyari"
             }
         },
         {
@@ -3855,9 +3177,6 @@
             },
             "properties": {
                 "name": "Park Circus - Uddipani",
-                "styleUrl": "#style58",
-                "styleHash": "-1e4386e3",
-                "description": "Durga puja of Park Circus - Uddipani"
             }
         },
         {
@@ -3872,9 +3191,6 @@
             },
             "properties": {
                 "name": "Triangular Park Sarbojanin",
-                "styleUrl": "#style128",
-                "styleHash": "-31dce649",
-                "description": "Durga puja of Triangular Park Sarbojanin"
             }
         },
         {
@@ -3889,9 +3205,6 @@
             },
             "properties": {
                 "name": "Sitalatala Kishore Sangha",
-                "styleUrl": "#style110",
-                "styleHash": "3750c8fe",
-                "description": "Durga puja of Sitalatala Kishore Sangha"
             }
         },
         {
@@ -3906,9 +3219,6 @@
             },
             "properties": {
                 "name": "Prasanta Disha Sarbojanin",
-                "styleUrl": "#style229",
-                "styleHash": "-3f78191b",
-                "description": "Durga puja of Prasanta Disha Sarbojanin"
             }
         },
         {
@@ -3923,9 +3233,6 @@
             },
             "properties": {
                 "name": "Barisha Yubak Brinda",
-                "styleUrl": "#style25",
-                "styleHash": "-49ff1a83",
-                "description": "Durga puja of Barisha Yubak Brinda"
             }
         },
         {
@@ -3940,9 +3247,6 @@
             },
             "properties": {
                 "name": "Aikya Sammilani",
-                "styleUrl": "#style83",
-                "styleHash": "51610eee",
-                "description": "Durga puja of Aikya Sammilani"
             }
         }
     ]
